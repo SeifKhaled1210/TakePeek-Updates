@@ -1,5 +1,5 @@
 {
-          "version": "2.0.1",
-          "url": "https://github.com/seifkhaled1210/TakePeek-Updates/releases/download/v2.0.1/TakePeek.exe",
-          "changelog": "Fix spectator screen glitch, fix RCS double-compensation"
+              "version": "2.0.2",
+              "url": "https://github.com/seifkhaled1210/TakePeek-Updates/releases/download/v2.0.2/TakePeek.exe",
+              "changelog": "Fix aimbot lock not releasing, fix aimbot jitter on crouching enemies"
 }
