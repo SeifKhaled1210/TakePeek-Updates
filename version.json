@@ -1,5 +1,5 @@
 {
-    "version": "2.0.4",
-    "url": "https://github.com/seifkhaled1210/TakePeek-Updates/releases/download/v2.0.4/TakePeek.exe",
-    "changelog": "Fix aimbot/anti-aim: corrected dwViewAngles and dwCSGOInput offsets (-16 shift)"
+    "version": "2.0.5",
+    "url": "https://github.com/seifkhaled1210/TakePeek-Updates/releases/download/v2.0.5/TakePeek.exe",
+    "changelog": "Fix target lock not releasing after kill"
 }
