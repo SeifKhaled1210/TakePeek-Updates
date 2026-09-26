@@ -1,5 +1,5 @@
 {
-    "version": "2.0.22",
-    "url": "https://github.com/seifkhaled1210/TakePeek-Updates/releases/download/v2.0.22/TakePeek.exe",
-    "changelog": "Fixed FOV changer flickering when scoped + smoother aim pro"
+    "version": "2.0.23",
+    "url": "https://github.com/seifkhaled1210/TakePeek-Updates/releases/download/v2.0.23/TakePeek.exe",
+    "changelog": "Fixed FOV changer jitter on unscope + smoother aim pro"
 }
