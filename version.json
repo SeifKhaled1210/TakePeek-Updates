@@ -1,5 +1,5 @@
 {
-    "version": "2.0.26",
-    "url": "https://github.com/seifkhaled1210/TakePeek-Updates/releases/download/v2.0.26/TakePeek.exe",
-    "changelog": "Fixed bhop + Retuned aim smoothing + Kill counter fix"
+    "version": "2.0.27",
+    "url": "https://github.com/seifkhaled1210/TakePeek-Updates/releases/download/v2.0.27/TakePeek.exe",
+    "changelog": "RCS accuracy fix + Smoother aim tracking + Aim pro grenade skip + FOV scope jitter fix"
 }
